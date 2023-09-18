@@ -21,8 +21,8 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Clone the repository to your local machine using `git clone <repository-url>`.
-2. Navigate to the project directory using `cd <project-directory>`.
+1. Clone the repository to your local machine using `git clone https://github.com/raushan27/samespace_backend.git`.
+2. Navigate to the project directory.
 3. Install the dependencies using `npm install`.
 4. Create a `.env` file in the root directory of the project, and add your database configuration:
    ```
