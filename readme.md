@@ -1,6 +1,6 @@
 # Project Title
 
-Samespace Backend Assignment
+Simple Data API with testing functionality.
 
 ## Description
 
